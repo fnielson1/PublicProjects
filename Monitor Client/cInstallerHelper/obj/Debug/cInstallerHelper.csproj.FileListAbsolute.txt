@@ -1,0 +1,7 @@
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\bin\Debug\cInstallerHelper.dll
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\bin\Debug\cInstallerHelper.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\obj\Debug\cInstallerHelper.dll
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\obj\Debug\cInstallerHelper.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\cInstallerHelper\obj\Debug\cInstallerHelper.csproj.ResolveComReference.cache

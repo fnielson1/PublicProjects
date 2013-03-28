@@ -1,0 +1,5 @@
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\PostInstall\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\PostInstall\bin\Debug\PostInstall.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\PostInstall\bin\Debug\PostInstall.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\PostInstall\obj\x86\Debug\PostInstall.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\PostInstall\obj\x86\Debug\PostInstall.pdb

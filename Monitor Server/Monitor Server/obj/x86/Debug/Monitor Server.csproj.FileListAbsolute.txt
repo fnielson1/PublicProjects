@@ -1,0 +1,47 @@
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\bin\Debug\Monitor Server.exe
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\bin\Debug\Monitor Server.pdb
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\obj\x86\Debug\Monitor_Server.Properties.Resources.resources
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\obj\x86\Debug\Monitor Server.exe
+C:\Users\fnielson\AppData\Local\Temporary Projects\Monitor Server\obj\x86\Debug\Monitor Server.pdb
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.exe
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.pdb
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe.config
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.pdb
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor_Server.Properties.Resources.resources
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor_Server.frmServer.resources
+C:\Users\fnielson\Documents\php\Frank\Visual Studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe.config
+C:\Users\fnielson\Documents\php\Frank\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.exe
+C:\Users\fnielson\Documents\php\Frank\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.pdb
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe.config
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.exe
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.pdb
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\bin\Debug\Monitor Server.pdb
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor_Server.frmServer.resources
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\Monitor_Server.Properties.Resources.resources
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\ResGen.read.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Server\Monitor Server\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe.config
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\Monitor Server.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\bin\Debug\Monitor Server.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\bin\Debug\Monitor Server.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\Monitor_Server.frmServer.resources
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\Monitor_Server.Properties.Resources.resources
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Server\Monitor Server\obj\x86\Debug\GenerateResource.write.1.tlog

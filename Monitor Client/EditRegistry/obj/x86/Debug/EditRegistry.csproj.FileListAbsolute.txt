@@ -1,0 +1,5 @@
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\EditRegistry\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\EditRegistry\bin\Debug\EditRegistry.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\EditRegistry\bin\Debug\EditRegistry.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\EditRegistry\obj\x86\Debug\EditRegistry.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\EditRegistry\obj\x86\Debug\EditRegistry.pdb

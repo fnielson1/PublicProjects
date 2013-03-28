@@ -1,0 +1,38 @@
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\bin\Debug\Monitor Client.exe
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\bin\Debug\Monitor Client.pdb
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor_Client.frmMain.resources
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor_Client.Properties.Resources.resources
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor Client.exe
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor Client.pdb
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\bin\Debug\Monitor Client.exe.config
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\fnielson\documents\visual studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\ResGen.write.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\bin\Debug\Monitor Client.exe.config
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor Client.exe
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor Client.pdb
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\bin\Debug\Monitor Client.exe
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\bin\Debug\Monitor Client.pdb
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor_Client.frmMain.resources
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\Monitor_Client.Properties.Resources.resources
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\ResGen.read.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\firefly1\My Documents\Visual Studio 2010\Projects\Monitor Client\Monitor Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\bin\Debug\Monitor Client.exe.config
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\Monitor Client.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\Monitor Client.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\bin\Debug\Monitor Client.exe
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\bin\Debug\Monitor Client.pdb
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\Monitor_Client.frmMain.resources
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\Monitor_Client.Properties.Resources.resources
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\administrator1\Documents\Visual Studio 2010\Projects\Frank\Monitor Client\Monitor Client\obj\x86\Debug\GenerateResource.write.1.tlog
